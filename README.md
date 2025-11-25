@@ -112,7 +112,7 @@ ecommerce_db.sql
 DBConnection.java
 Deploy the project to Tomcat 9.
 Visit:
-http://localhost:8080/ecommerce-platform
+http://localhost:8080/ecommerce-platform/login
 
 
 
